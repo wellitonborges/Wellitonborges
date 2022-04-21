@@ -12,3 +12,5 @@ I am Welliton Borges, I am a student,
 I'm learning to program. 
 
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+
