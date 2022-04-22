@@ -9,12 +9,6 @@
 &center=true&width=440&height=45&color=f55c8e&vCenter=true&size=22"></a>
 </p>
 
-
-
-
-
-
-   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/welliton-borges-904331190/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush sonawale" height="30" width="40" /></a>
