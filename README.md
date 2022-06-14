@@ -45,5 +45,4 @@
 
 ---
 
-![snake animation]([https://raw.githubusercontent.com](https://github.com)/Wellitonborges/Wellitonborges/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/wellitonborges/wellitonborges/blob/output/github-contribution-grid-snake.svg)
