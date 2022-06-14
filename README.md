@@ -6,6 +6,8 @@
 
 
 
+
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%8000FF&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Welliton+Borges;I'm++a+programming+student;)](https://git.io/typing-svg)
 
@@ -42,7 +44,15 @@
 
 
 
+![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
 
+
+
+
+
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
+
+</div>
 
 
 
