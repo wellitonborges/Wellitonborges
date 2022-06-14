@@ -43,16 +43,7 @@
 
 
 
+---
 
-![snake gif](https://raw.githubusercontent.com/kaka-jaques/kaka-jaques/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" align=center>
-
-</div>
-
-
+![snake gif](https://raw.githubusercontent.com/Wellitonborges/Wellitonborges/output/github-contribution-grid-snake.svg)
 
